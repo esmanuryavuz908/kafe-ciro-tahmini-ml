@@ -1,0 +1,25 @@
+# Jupyter Notebook geçici yedek dosyaları
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python önbellek dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal ortamlar (Virtual Environments)
+venv/
+.venv/
+env/
+ENV/
+
+# IDE ve editör ayarları
+.vscode/
+.idea/
+
+# İşletim sistemi gereksiz dosyaları
+.DS_Store
+Thumbs.db
+
+# Olası gizli çevre değişkenleri
+.env
